@@ -23,16 +23,6 @@
 
 <!--Intro start-->
 
-<style>
-  ul {
-    /* padding: px */
-  }
-  ul li {
-    padding: 5px;
-    vertical-alignment: top;
-    vertical-align: text-top;
-  }
-</style>
 <ul>
   <li>
     🔭 I’m currently working on <strong>GCP, Python, Docker, Bash, Pytest, SQL</strong> 
